@@ -1,5 +1,3 @@
-# ds-program
-C programming
 
 #include <stdio.h>
 #include <malloc.h>
