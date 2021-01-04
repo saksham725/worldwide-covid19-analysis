@@ -1,2 +1,0 @@
-# ds-program
-C programming
